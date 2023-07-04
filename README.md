@@ -1,7 +1,5 @@
 # Coding Challenge | Hackerrank 
 
-My certifications: 
-
 | Name |Logo | Topics | Link |
 |---|---|---|---|
 |CSS|[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)| It covers topics like exploring Cascading and Inheritance, exploring text styling fundamentals, understanding the use of layouts in CSS, understand the boxing of elements in CSS, among others.|[Certificate](certifications/css%20certificate.pdf)|
