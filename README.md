@@ -1,4 +1,4 @@
-# Coding Challenge | Hackerrank 
+# Coding Challenge | HackerRank 
 
 | Name |Logo | Topics | Link |
 |---|---|---|---|
